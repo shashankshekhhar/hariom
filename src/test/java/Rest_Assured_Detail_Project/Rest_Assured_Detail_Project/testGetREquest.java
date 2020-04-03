@@ -21,5 +21,7 @@ public class testGetREquest {
 		System.out.println("StatusCOde: "+ response.getStatusCode());
 		
 		assertEquals(200,response.getStatusCode());
+		
+		System.out.println("shashshahsah");
 	}
 }
